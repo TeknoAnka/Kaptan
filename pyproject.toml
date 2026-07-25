@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "kaptan"
+dynamic = ["version"]
+description = "LupuS quick desktop configuration tool."
+readme = "README.md"
+requires-python = ">=3.14"
+license = "GPL-3.0-only"
+authors = [
+    {name = "Metehan Özbek", email = "mthnzbk@gmail.com"}
+]
+keywords = ["PyQt6"]
+dependencies = [
+    "PyQt6",
+]
