@@ -64,7 +64,7 @@ setup(
     description="LupuS quick desktop configuraton tool.",
     author="Metehan Özbek",
     author_email="mthnzbk@gmail.com",
-    url="https://github.com/TeknoAnka/kaptan",
+    url="https://github.com/Antolun/kaptan",
     keywords=["PyQt6"],
     data_files=datas
 )

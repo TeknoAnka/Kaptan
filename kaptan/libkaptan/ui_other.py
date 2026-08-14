@@ -26,9 +26,9 @@ class OtherWidget(QWizardPage):
         super().__init__(parent)
         self.setSubTitle(self.tr("<h2>Congratulations!</h2>"))
 
-        self.homepage_url = "https://www.teknoanka.com/"
-        self.forum_url = "https://discuss.teknoanka.com/"
-        self.wiki_url = "https://wiki.teknoanka.com/"
+        self.homepage_url = "https://www.antolun.com/"
+        self.forum_url = "https://discuss.antolun.com/"
+        self.wiki_url = "https://wiki.antolun.com/"
 
         vlayout = QVBoxLayout(self)
 
